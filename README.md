@@ -6,9 +6,6 @@ I also like ui, ux and design in general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbidream&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morbidream)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
