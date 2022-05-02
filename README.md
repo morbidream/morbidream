@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Ela from Tunisia and I'm a full-stack web developer. I really enjoy working with frameworks like Angular, Symfony, Django, as well as ReactJS.
+I also like ui, ux and design in general.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morbidream)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **morbidream/morbidream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
