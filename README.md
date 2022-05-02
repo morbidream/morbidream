@@ -4,7 +4,7 @@ I also like ui, ux and design in general.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morbidream)](https://github.com/anuraghazra/github-readme-stats)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!--<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>-->
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ela-debichi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/ela-debichi?trk=profile-badge">Ela Debichi</a></div>
 
 
