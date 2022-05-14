@@ -2,10 +2,12 @@
 I'm Ela from Tunisia and I'm a full-stack web developer. I really enjoy working with frameworks like Angular, Symfony, Django, as well as ReactJS.
 I also like working on ui, ux and design in general.
 
+## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morbidream&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbidream&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-bg=true&row=1&column=8)
 
 ## 💻 Skills
@@ -25,21 +27,3 @@ I also like working on ui, ux and design in general.
 ![This is an image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
-
-
-
-<!--
-**morbidream/morbidream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
