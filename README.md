@@ -25,7 +25,6 @@ I also like working on ui, ux and design in general.
 ![This is an image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
-🌱 I’m currently learning: ![This is an image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 <!--
