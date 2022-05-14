@@ -6,6 +6,8 @@ I also like working on ui, ux and design in general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbidream&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+
 ## 💻 Skills
 
 ![This is an image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
