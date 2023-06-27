@@ -1,6 +1,4 @@
 #### Hi there 👋
-I'm Ela from Tunisia and I'm a Full Stack developer. I really enjoy working with frameworks like Angular, Symfony, Django, as well as ReactJS.
-I also like creating UI/UX designs.
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morbidream&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
