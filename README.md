@@ -17,8 +17,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morbidream&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbidream&layout=compact&theme=dracula&hide=html,css,scss,twig)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> (## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-bg=true&row=1&column=8))
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-bg=true&row=1&column=8)
 
 
